@@ -7,6 +7,6 @@ Dependencies: Lapack, blas
 
 Compiler: gcc 
 
-Uses code from: https://github.com/cmjiang/xSYGVIC
+Uses code for implementation of Fix-Heiberger algorithm: https://github.com/cmjiang/xSYGVIC
 
 For questions email: jbringew@terpmail.umd.edu
