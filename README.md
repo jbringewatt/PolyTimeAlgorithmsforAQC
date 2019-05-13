@@ -5,4 +5,8 @@ There are two types of codes - exact solvers for one well, two wells and three w
 
 Dependencies: Lapack, blas  
 
+Compiler: gcc 
+
+Uses code from: https://github.com/cmjiang/xSYGVIC
+
 For questions email: jbringew@terpmail.umd.edu
