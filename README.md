@@ -9,4 +9,4 @@ Compiler: gcc
 
 Uses code for implementation of Fix-Heiberger algorithm: https://github.com/cmjiang/xSYGVIC
 
-For questions email: jbringew@terpmail.umd.edu
+For questions or comments email: jbringew@terpmail.umd.edu
