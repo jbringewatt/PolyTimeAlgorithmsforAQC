@@ -1,7 +1,7 @@
 /***********************************
 ************************************
 Author: Jake Bringewatt
-Use: Finds the eigenspectrum in the full Hilbert space via exact diagonalization. Takes a standard input file which is for Hamming spherical potentials with constant strength. Can easily be generalized to more complicated potentials. The first well listed in this file will be given a schedule of b(s)=1-s instead of b(s)=s. Used for doing a Grover with priors problem as in example 1 of the paper.
+Use: Finds the eigenspectrum in the full Hilbert space via exact diagonalization. Takes a standard input file which is for Hamming spherical potentials with constant strength. Can easily be generalized to more complicated potentials. Wells except the first well listed in this file will be given a schedule of b(s)=1-s instead of b(s)=s. Used for doing a Grover with priors problem as in example 1 of the paper.
 
 Dependencies: Lapack, Blas
 
