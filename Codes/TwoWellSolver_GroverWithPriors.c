@@ -1,9 +1,8 @@
 /***********************************
 ************************************
 Author: Jake Bringewatt
-Date:2/11/2019
 Use: Finds the ground state and first excited state candidate in the sigma = 0 subspace, and one of the n-1 degenerate first excited state candidates in the sigma=1 (sigma_1=0, sigma_2=1 or sigma_1=1, sigma_2=1) subspace for two Hamming symmetric wells. Takes a standard input file which is for a Hamming spherical potential with constant strength. Can easily be generalized to more complicated potentials.
-The first well listed in this file will be given a schedule of b(s)=1-s instead of b(s)=s. Used for doing a Grover with priors problem as in example 1 of the paper.
+Wells except the first well listed in this file will be given a schedule of b(s)=1-s instead of b(s)=s. Used for doing a Grover with priors problem as in example 1 of the paper.
 
 Dependencies: Lapack, Blas
 
