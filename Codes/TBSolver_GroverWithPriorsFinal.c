@@ -1,7 +1,7 @@
 /***********************************
 ************************************
 Author: Jake Bringewatt
-Use: A tight binding code for individual Hamming spherical wells with fixed depth and width, as given by the well input file.  The first well listed in this file will be given a schedule of b(s)=1-s instead of b(s)=s. Used for doing a Grover with priors problem as in example 1 of the paper.
+Use: A tight binding code for individual Hamming spherical wells with fixed depth and width, as given by the well input file.  Wells except the first well listed in this file will be given a schedule of b(s)=1-s instead of b(s)=s. Used for doing a Grover with priors problem as in example 1 of the paper.
 
 Dependencies: Lapack, Blas
 
